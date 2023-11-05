@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning **node js & react**
 
-- 🤝 I’m looking for help with **Mayabati**
+- 🤝 I’m looking for help with **Project Mayabati**
 
 - 💬 Ask me about **web development & python**
 
