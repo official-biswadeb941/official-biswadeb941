@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Doctor's Appointment Booking System using AI**
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **node js & react**
 
 - 🤝 I’m looking for help with **Mayabati**
 
-- 💬 Ask me about **web development, python**
+- 💬 Ask me about **web development & python**
 
 - 📫 How to reach me **biswadebmukherjee941@gmail.com**
 
