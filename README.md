@@ -10,7 +10,9 @@
 <p align="left"> <a href="https://twitter.com/biswadeb941" target="blank"><img src="https://img.shields.io/twitter/follow/biswadeb941?logo=twitter&style=for-the-badge" alt="biswadeb941" /></a> </p>
 
 - 🔭 I’m currently working on **Doctor's Appointment Booking System using AI**
-
+  
+- 😈 Upcoming project **Product Recommendation System**
+  
 - 🌱 I’m currently learning **node js & react**
 
 - 🤝 I’m looking for help with **Mayabati**
