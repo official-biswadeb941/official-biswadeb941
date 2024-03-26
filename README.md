@@ -1,9 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" crossorigin="anonymous">
-
 ![logo](https://github.com/officialbiswadeb941/officialbiswadeb941/blob/main/Banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Biswadeb Mukherjee</h1>
-<h3 align="center">Cyber Security Enthusiast | Red Teamer | Student at Gurunanak Institute of Technology</h3>
+<h1 align="center"><b>Hi 👋, I'm Biswadeb Mukherjee</b></h1>
+<h3 align="center"><b>Cyber Security Enthusiast | Red Teamer | Student at Gurunanak Institute of Technology</b></h3>
 
 <img align="right" alt="coding" width="500px" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
 
@@ -23,12 +21,12 @@
 
 - 📫 How to reach me **biswadebmukherjee941@gmail.com**
 
-<h3 align="left">Services I provide:</h1>
-- 💻 Web Development
-- 💼 Software Development
-- 🐍 Python Development
-- 🔒 Cyber Security
-
+<h3 align="left">Services I provide:</h3>
+<ul>
+<li>💻 Web Development</li>
+<li>💼 Software Development</li>
+<li>🐍 Python Development</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswadeb941" height="30" width="40" /></a>
