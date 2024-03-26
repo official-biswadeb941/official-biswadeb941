@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" crossorigin="anonymous">
+
 ![logo](https://github.com/officialbiswadeb941/officialbiswadeb941/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Biswadeb Mukherjee</h1>
@@ -20,6 +22,15 @@
 - 💬 Ask me about **web development & python**
 
 - 📫 How to reach me **biswadebmukherjee941@gmail.com**
+
+<h3 align="left">Services:</h3>
+<p align="left">Services I provide:</p>
+<ul>
+  <li><i class="fas fa-code"></i> Web Development</li>
+  <li><i class="fas fa-laptop-code"></i> Software Development</li>
+  <li><i class="fab fa-python"></i> Python Development</li>
+  <li><i class="fas fa-shield-alt"></i> Cyber Security</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
