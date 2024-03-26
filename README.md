@@ -23,12 +23,11 @@
 
 - 📫 How to reach me **biswadebmukherjee941@gmail.com**
 
-### Services:
-- <i class="fas fa-code"></i> Web Development
-- <i class="fas fa-laptop-code"></i> Software Development
-- <i class="fab fa-python"></i> Python Development
-- <i class="fas fa-shield-alt"></i> Cyber Security
-
+<h3 align="left">Services I provide:</h1>
+- 💻 Web Development
+- 💼 Software Development
+- 🐍 Python Development
+- 🔒 Cyber Security
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
