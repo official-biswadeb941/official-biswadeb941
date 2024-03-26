@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/biswadeb941" target="blank"><img src="https://img.shields.io/twitter/follow/biswadeb941?logo=twitter&style=for-the-badge" alt="biswadeb941" /></a> </p>
 
-- 🔭 I’m currently working on **Doctor's Appointment Booking System using AI**
+- 🔭 I’m currently working on **Mayabati**
   
-- 😈 Upcoming project **Product Recommendation System**
+- 😈 Upcoming project **Blockchain Based Authentication System.**
   
 - 🌱 I’m currently learning **node js & react**
 
 - 🤝 I’m looking for help with **Project Mayabati**
 
-- 💬 Ask me about **web development & python**
+- 💬 Ask me about **Ethical Hacking, Web development & Python**
 
 - 📫 How to reach me **biswadebmukherjee941@gmail.com**
 
