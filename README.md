@@ -29,7 +29,7 @@
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/domain.png" alt="your website" height="30" width="40"/></a>
+<a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/web.png" alt="your website" height="30" width="40"/></a>
 <a href="https://twitter.com/biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswadeb941" height="30" width="40" /></a>
 <a href="https://youtube.com/c/BiswadebMukherjeeOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="official.biswadeb941" height="30" width="40" /></a>
 <a href="https://facebook.com/official.biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.biswadeb941" height="30" width="40" /></a>
