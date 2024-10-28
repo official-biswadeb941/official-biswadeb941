@@ -3,7 +3,7 @@
   <br />
   Hi 👋, I'm Biswadeb Mukherjee
 </h1>
-<h3 align="center">Cyber Security Researcher | Pentester | Red Team Specialist</h3>
+<h3 align="center">Cyber Security Researcher | Pentester | Red Teamer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20views&color=0e75b6&style=flat" alt="official-biswadeb941" />
