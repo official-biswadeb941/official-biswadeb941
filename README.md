@@ -17,8 +17,7 @@
 With 4 years of experience in ethical hacking, web designing, web development, I excel in creating robust web application with robust security, identifying vulnerabilities, securing systems, and safeguarding networks with tailored, detail-oriented solutions.
 - 🔭 I’m currently working on **Incognito-Vault**
 - 🌱 Currently learning **Criminal Psychology**
-- 👯 Looking to collaborate on **Security Projects & Tools**
-- 📝 I regularly write articles on [My Blog](cutt.ly/my_website)
+- 👯 Looking to collaborate on **ClopiMedi - Your Heart's Trusted Care**
 - 💬 Ask me about **Python, DBMS, Networking, Hacking Tools, Dark Web**
 - 📫 Reach me at: **biswadebmukherjee941@gmail.com**
 
