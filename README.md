@@ -93,4 +93,5 @@ With 4 years of experience in ethical hacking, web designing, web development, I
 </p>
 
 ---
-[![GitHub Snake Game](https://github.com/official-biswadeb941/official-biswadeb941/actions/workflows/snake.yml/badge.svg)](https://github.com/official-biswadeb941/official-biswadeb941/actions/workflows/snake.yml)
+![snake gif](https://github.com/official-biswadeb941/official-biswadeb941/blob/output/github-snake-dark.svg)
+
