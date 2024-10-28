@@ -44,7 +44,7 @@ With 4 years of experience in ethical hacking, web designing, web development, I
 ### 🔍 Featured Projects
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| **[Incognito-Vault](https://github.com/official-biswadeb941/Incognito-Vault)** | 🔐 Security project focusing on privacy and anonymity | [Repository](https://github.com/official-biswadeb941/Incognito-Vault) |
+| **[Incognito-Vault](https://github.com/official-biswadeb941/Incognito-Vault)** | 🔐 Security project focusing on privacy and anonymity | [Repository](https://github.com/official-biswadeb941/IncognitoVault) |
 | **[ClopiMedi - Your Heart's Trusted Care](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care)** | ❤️ Doctor Appointment Booking System powered by AI | [Repository](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care) |
 
 ---
