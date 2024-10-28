@@ -46,6 +46,8 @@ With 4 years of experience in ethical hacking, web designing, web development, I
 | ------- | ----------- | ---------- |
 | **[Incognito-Vault](https://github.com/official-biswadeb941/Incognito-Vault)** | 🔐 Security project focusing on privacy and anonymity | [403 Access Denied](https://github.com/official-biswadeb941/IncognitoVault) |
 | **[ClopiMedi - Your Heart's Trusted Care](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care)** | ❤️ Doctor Appointment Booking System powered by AI | [Repository](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care) |
+| **[Mayabati - Your Personal AI Chef](https://github.com/official-biswadeb941/Mayabati---Your-Personal-AI-Chef)** | 🥣 Mayabati - Your Personal AI Chef | [Repository](https://github.com/official-biswadeb941/Mayabati---Your-Personal-AI-Chef) |
+
 
 ---
 
