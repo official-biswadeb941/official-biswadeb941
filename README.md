@@ -1,47 +1,96 @@
-![logo](https://github.com/officialbiswadeb941/officialbiswadeb941/blob/main/Banner.jpg)
+<h1 align="center">
+  <img src="https://i.ytimg.com/vi/68BnArRFQCU/sddefault.jpg" alt="Welcome GIF" width="750" height="420"/>
+  <br />
+  Hi 👋, I'm Biswadeb Mukherjee
+</h1>
+<h3 align="center">Cyber Security Researcher | Pentester | Red Team Specialist</h3>
 
-<h1 align="center"><b>Hi 👋, I'm Biswadeb Mukherjee</b></h1>
-<h3 align="center"><b>Cyber Security Enthusiast | Red Teamer | Student at Gurunanak Institute of Technology</b></h3>
-
-<img align="right" alt="coding" width="500px" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialbiswadeb941&label=Profile%20views&color=0e75b6&style=flat" alt="officialbiswadeb941" /> </p>
-
-<p align="left"> <a href="https://twitter.com/biswadeb941" target="blank"><img src="https://img.shields.io/twitter/follow/biswadeb941?logo=twitter&style=for-the-badge" alt="biswadeb941" /></a> </p>
-
-- 🔭 I’m currently working on **Mayabati**
-  
-- 😈 Upcoming project **Blockchain Based Authentication System.**
-  
-- 🌱 I’m currently learning **node js & react**
-
-- 🤝 I’m looking for help with **Project Mayabati**
-
-- 💬 Ask me about **Ethical Hacking, Web development & Python**
-
-- 📫 How to reach me **biswadebmukherjee941@gmail.com**
-
-<h3 align="left">Services I provide:</h3>
-<ul>
-<li>💻 Web Development</li>
-<li>💼 Software Development</li>
-<li>🐍 Python Development</li>
-</ul>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/web.png" alt="your website" height="40" width="40"/></a>
-<a href="https://twitter.com/biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswadeb941" height="30" width="40" /></a>
-<a href="https://youtube.com/c/BiswadebMukherjeeOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="official.biswadeb941" height="30" width="40" /></a>
-<a href="https://facebook.com/official.biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.biswadeb941" height="30" width="40" /></a>
-<a href="https://instagram.com/official_biswadeb941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_biswadeb941" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20views&color=0e75b6&style=flat" alt="official-biswadeb941" />
+  <a href="https://github.com/official-biswadeb941?tab=followers"><img src="https://img.shields.io/github/followers/official-biswadeb941?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio Badge"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/B.M.O.941"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abc" /></a></p><br><br>
+### 👨‍💻 About Me
+With 4 years of experience in ethical hacking, web designing, web development, I excel in creating robust web application with robust security, identifying vulnerabilities, securing systems, and safeguarding networks with tailored, detail-oriented solutions.
+- 🔭 I’m currently working on **Incognito-Vault**
+- 🌱 Currently learning **Criminal Psychology**
+- 👯 Looking to collaborate on **Security Projects & Tools**
+- 📝 I regularly write articles on [My Blog](cutt.ly/my_website)
+- 💬 Ask me about **Python, DBMS, Networking, Hacking Tools, Dark Web**
+- 📫 Reach me at: **biswadebmukherjee941@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=official-biswadeb941&show_icons=true&locale=en&layout=compact" alt="officialbiswadeb941" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=official-biswadeb941&show_icons=true&locale=en" alt="officialbiswadeb941" /></p>
+### 🛠️ Services I Provide
+- **Web Hosting:** Reliable and secure hosting solutions for personal and business websites.
+- **Web Development & Designing:** Custom website design and development to meet your unique needs.
+- **Software Development:** Tailored software solutions for various applications, ensuring high quality and performance.
+- **Cyber Security:** 
+  - Best practices for securing systems and data.
+  - Workshops on the latest cybersecurity trends and techniques.
+  - Training sessions for teams to enhance their security awareness and skills.
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=official-biswadeb941&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+---
+
+### 🔍 Featured Projects
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+| **[Incognito-Vault](https://github.com/official-biswadeb941/Incognito-Vault)** | 🔐 Security project focusing on privacy and anonymity | [Repository](https://github.com/official-biswadeb941/Incognito-Vault) |
+| **[ClopiMedi - Your Heart's Trusted Care](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care)** | ❤️ Doctor Appointment Booking System powered by AI | [Repository](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care) |
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <!-- Add more tools here as needed -->
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:biswadebmukherjee941@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=linkedin" alt="gmail-badge"/></a>
+  <a href="https://linkedin.com/in/biswadeb-mukherjee" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://fb.com/official.biswadeb941" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a>
+  <a href="https://instagram.com/official_biswadeb941" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram Badge"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=official-biswadeb941&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-biswadeb941&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-biswadeb941&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=official-biswadeb941&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+</p>
+
+---
