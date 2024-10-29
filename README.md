@@ -23,14 +23,21 @@ With 4 years of experience in ethical hacking, web designing, web development, I
 
 ---
 
-### 🛠️ Services I Provide
-- **Web Hosting:** Reliable and secure hosting solutions for personal and business websites.
-- **Web Development & Designing:** Custom website design and development to meet your unique needs.
-- **Software Development:** Tailored software solutions for various applications, ensuring high quality and performance.
-- **Cyber Security:** 
-  - Best practices for securing systems and data.
-  - Workshops on the latest cybersecurity trends and techniques.
-  - Training sessions for teams to enhance their security awareness and skills.
+### 💼 Available for Hire
+
+🚀 I’m currently open to exciting opportunities and collaborations! If you're looking for a dedicated professional in Cyber Security, Ethical Hacking, Web Development, or related fields, let’s connect!
+
+- **Services I Provide:**
+  - **Web Hosting:** Reliable and secure hosting solutions for personal and business websites.
+  - **Web Development & Designing:** Custom website design and development to meet your unique needs.
+  - **Software Development:** Tailored software solutions for various applications, ensuring high quality and performance.
+  - **Cyber Security:**
+    - Best practices for securing systems and data.
+    - Workshops on the latest cybersecurity trends and techniques.
+    - Training sessions for teams to enhance their security awareness and skills.
+
+- **Interested in collaborating?**  
+  Feel free to reach out via [email](mailto:biswadebmukherjee941@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/biswadeb-mukherjee). I look forward to discussing how I can contribute to your projects!
 
 ---
 
@@ -96,4 +103,3 @@ With 4 years of experience in ethical hacking, web designing, web development, I
 
 ---
 ![snake gif](https://github.com/official-biswadeb941/official-biswadeb941/blob/output/github-snake-dark.svg)
-
