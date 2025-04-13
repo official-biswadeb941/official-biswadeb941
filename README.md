@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Folder/Banner.png" alt="Welcome GIF" width="750" height="420"/>
+  <img src="Folder/Banner.png" alt="Welcome GIF" width="750" height="350"/>
   <br />
   Hi 👋, I'm Biswadeb Mukherjee
 </h1>
