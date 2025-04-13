@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="![Banner]([https://github.com/user-attachments/assets/be7c94c3-406c-4fc3-8f01-7c9d5f7db82c](https://github-production-user-asset-6210df.s3.amazonaws.com/65611656/433167275-be7c94c3-406c-4fc3-8f01-7c9d5f7db82c.png))
-" alt="Welcome GIF" width="750" height="420"/>
+  <img src="Folder/Banner.png" alt="Welcome GIF" width="750" height="420"/>
   <br />
   Hi 👋, I'm Biswadeb Mukherjee
 </h1>
