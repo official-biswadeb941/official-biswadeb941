@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://i.ytimg.com/vi/68BnArRFQCU/sddefault.jpg" alt="Welcome GIF" width="750" height="420"/>
+  <img src="![Banner](https://github.com/user-attachments/assets/be7c94c3-406c-4fc3-8f01-7c9d5f7db82c)
+" alt="Welcome GIF" width="750" height="420"/>
   <br />
   Hi 👋, I'm Biswadeb Mukherjee
 </h1>
