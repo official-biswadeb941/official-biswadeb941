@@ -1,105 +1,130 @@
 <h1 align="center">
-  <img src="Folder/Banner.png" alt="Welcome GIF" width="750" height="350"/>
+  <img src="Folder/Banner.png" alt="Welcome Banner" width="750" height="350"/>
   <br />
   Hi 👋, I'm Biswadeb Mukherjee
 </h1>
-<h3 align="center">Cyber Security Researcher | Pentester | Red Teamer | Top 5 in IEEE-IC Hackathon</h3>
+
+<h3 align="center">
+  Ethical Hacker | Pentester | Malware Developer | IEEE-IC Hackathon Top 5
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20views&color=0e75b6&style=flat" alt="official-biswadeb941" />
-  <a href="https://github.com/official-biswadeb941?tab=followers"><img src="https://img.shields.io/github/followers/official-biswadeb941?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/official-biswadeb941?tab=followers"><img src="https://img.shields.io/github/followers/official-biswadeb941?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/"><img src="https://img.shields.io/badge/Visit-Portfolio-brightgreen?style=flat-square" alt="Portfolio Badge"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-With 4 years of experience in ethical hacking, web designing, web development, I excel in creating robust web application with robust security, identifying vulnerabilities, securing systems, and safeguarding networks with tailored, detail-oriented solutions.
-- 🔭 I’m currently working on **Incognito-Vault**
-- 🌱 Currently learning **Criminal Psychology**
-- 👯 Looking to collaborate on **ClopiMedi - Your Heart's Trusted Care**
-- 💬 Ask me about **Python, DBMS, Networking, Hacking Tools, Dark Web**
-- 📫 Reach me at: **biswadebmukherjee941@gmail.com**
+## 👨‍💻 About Me
+
+I'm **Biswadeb Mukherjee**, a self-taught **Ethical Hacker, Red Teamer, and Malware Developer** with over 5 years of battlefield-tested experience in offensive security, threat simulation, and anti-forensics.
+
+I specialize in:
+- **Advanced Red Team Ops**
+- **Malware Engineering** (PE/ELF, Crypters, Packers, AV/EDR Evasion)
+- **Post-Exploitation, Recon, & OSINT**
+- **Offensive Automation** using Python, Go, and custom-built stacks
+- **Cyber Forensics & Anti-Forensics**
+
+> I don’t just find vulnerabilities — I simulate the adversary, **weaponize the path**, and exploit systems to understand how they break.  
+> I break things to understand them. I write code with a battle plan.
+
+⚡️ Outside tech? I'm a curious mind venturing into Tantra Vidya, Black magic, space science, consciousness, time, and the mystical. Where others see a firewall, I see a doorway to the unknown.
 
 ---
 
-### 💼 Available for Hire
+## 🔭 Currently Working On
 
-🚀 I’m currently open to exciting opportunities and collaborations! If you're looking for a dedicated professional in Cyber Security, Ethical Hacking, Web Development, or related fields, let’s connect!
-
-- **Services I Provide:**
-  - **Web Hosting:** Reliable and secure hosting solutions for personal and business websites.
-  - **Web Development & Designing:** Custom website design and development to meet your unique needs.
-  - **Software Development:** Tailored software solutions for various applications, ensuring high quality and performance.
-  - **Cyber Security:**
-    - Best practices for securing systems and data.
-    - Workshops on the latest cybersecurity trends and techniques.
-    - Training sessions for teams to enhance their security awareness and skills.
-
-- **Interested in collaborating?**  
-  Feel free to reach out via [email](mailto:biswadebmukherjee941@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/biswadeb-mukherjee). I look forward to discussing how I can contribute to your projects!
+- 🛡 **[HopZero-DNS](https://github.com/official-biswadeb941/HopZero-DNS)** — a secure **Recursive DNS Server** made in pure Golang.
+- 🤖 **iDNS** — India DNS
+- 🧠 Learning **Criminal Psychology** to decode the attacker’s psyche.
 
 ---
 
-### 🏆 Achievements
+## 🤝 Let's Collaborate
+
+I’m open to **contract-based** or **freelance** gigs, side projects, joint ventures, or red team ops.
+
+**Services I Offer:**
+- 🔐 Cybersecurity Training, Tooling, and Red Team Ops
+- 💻 Full-stack Software & Web Development
+- ☁️ Secure Hosting & DevOps Solutions
+- 📊 Workshops, Webinars, and Awareness Programs
+
+📩 Reach out at [biswadebmukherjee941@gmail.com](mailto:biswadebmukherjee941@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/biswadeb-mukherjee)
+
+---
+
+## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=official-biswadeb941&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 ---
 
-### 🔍 Featured Projects
-| Project | Description | Repository |
-| ------- | ----------- | ---------- |
-| **[Incognito-Vault](https://github.com/official-biswadeb941/Incognito-Vault)** | 🔐 Security project focusing on privacy and anonymity | [403 Access Denied](https://github.com/official-biswadeb941/IncognitoVault) |
-| **[ClopiMedi - Your Heart's Trusted Care](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care)** | ❤️ Doctor Appointment Booking System powered by AI | [Repository](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care) |
-| **[Mayabati - Your Personal AI Chef](https://github.com/official-biswadeb941/Mayabati---Your-Personal-AI-Chef)** | 🥣 Mayabati - Your Personal AI Chef | [Repository](https://github.com/official-biswadeb941/Mayabati---Your-Personal-AI-Chef) |
+## 🔍 Featured Projects
 
+| Project | Description | Link |
+| ------ | ----------- | ---- |
+| **HopZero-DNS** | 🔐 Privacy first recursive DNS server made in pure GoLang | [Repo](https://github.com/official-biswadeb941/HopZero-DNS) |
+| **Incognito-Vault** | 🔐 Privacy-first security project for stealth storage and ops | [Repo](https://github.com/official-biswadeb941/Incognito-Vault) |
+| **ClopiMedi** | ❤️ AI-powered heart health management platform | [Repo](https://github.com/official-biswadeb941/ClopiMedi---Your-Heart-s-Trusted-Care) |
+| **Mayabati - AI Chef** | 🍳 Your personal AI kitchen assistant | [Repo](https://github.com/official-biswadeb941/Mayabati---Your-Personal-AI-Chef) |
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
-  <!-- Add more tools here as needed -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:biswadebmukherjee941@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=linkedin" alt="gmail-badge"/></a>
-  <a href="https://linkedin.com/in/biswadeb-mukherjee" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="https://fb.com/official.biswadeb941" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="Facebook Badge"/></a>
-  <a href="https://instagram.com/official_biswadeb941" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram Badge"/></a>
+  <a href="mailto:biswadebmukherjee941@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/biswadeb-mukherjee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://fb.com/official.biswadeb941"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/official_biswadeb941"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=official-biswadeb941&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-biswadeb941&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=official-biswadeb941&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-biswadeb941&theme=shadow_green&hide_border=false" width="48%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-biswadeb941&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-biswadeb941&layout=compact&theme=shadow_green&hide_border=false" width="48%"/>
+</p>
+
+---
+
+## 🚀 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=official-biswadeb941&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
 ---
 
-### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=official-biswadeb941&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+  <img src="https://github.com/official-biswadeb941/official-biswadeb941/blob/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
----
-![snake gif](https://github.com/official-biswadeb941/official-biswadeb941/blob/output/github-snake-dark.svg)
