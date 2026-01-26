@@ -261,7 +261,7 @@ every fault a message, every anomaly a marker, every structure a doctrine of con
 All official communication is cryptographically signed.
 
 - **Owner:** Mr. Biswadeb Mukherjee  
-- **Email:** biswadebmukherjee941@gmail.com  
+- **Email:** admin@official-biswadeb941.in 
 - **OpenPGP Fingerprint:**  
   `2D31 1898 5F46 8437 F8E6 0B9E A2F0 3FF3 10A0 EE1F`
 - **Signed Message:**  
