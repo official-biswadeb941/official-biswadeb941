@@ -3,7 +3,7 @@
   <b>🜂 Mr. Biswadeb Mukherjee</b>  <img src="https://img.shields.io/badge/Identity-Verified-black?style=flat&logo=trustpilot&logoColor=red" height="20"/>
   <br>
   <font size="4">
-    Offensive Security Specialist • Malware Developer • Software Engineer
+    Offensive Security Specialist • Malware Developer 
   </font>
   <br>
   <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20Views&color=red&style=flat"/>
