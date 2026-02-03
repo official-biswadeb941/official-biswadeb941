@@ -3,14 +3,14 @@
   <b>🜂 Mr. Biswadeb Mukherjee</b>  <img src="https://img.shields.io/badge/Identity-Verified-black?style=flat&logo=trustpilot&logoColor=red" height="20"/>
   <br>
   <font size="4">
-    Offensive Security Specialist • Malware Engineer 
+    Offensive Security Specialist • Malware Engineer
   </font>
   <br>
   <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20Views&color=red&style=flat"/>
   <a href="https://github.com/official-biswadeb941?tab=followers">
     <img src="https://img.shields.io/github/followers/official-biswadeb941?label=Followers&style=social">
   </a>
-  <a href="https://official-biswadeb941.github.io/Biswadeb-Portfolio/">
+  <a href="https://official-biswadeb941.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefoxbrowser&logoColor=red">
   </a>
 </h1>
@@ -261,40 +261,42 @@ every fault a message, every anomaly a marker, every structure a doctrine of con
 All official communication is cryptographically signed.
 
 - **Owner:** Mr. Biswadeb Mukherjee  
-- **Email:** admin@official-biswadeb941.in 
-- **OpenPGP Fingerprint:**  
-  `2D31 1898 5F46 8437 F8E6 0B9E A2F0 3FF3 10A0 EE1F`
-- **Signed Message:**  
-  https://raw.githubusercontent.com/official-biswadeb941/official-biswadeb941/main/Folder/official_biswadeb941.v1.asc  
-- **Public Key:**  
-  https://keys.openpgp.org/vks/v1/by-fingerprint/2D3118985F468437F8E60B9EA2F03FF310A0EE1F  
+- **Email:** admin@official-biswadeb941.in  
+- **OpenPGP Fingerprint:** `2D31 1898 5F46 8437 F8E6 0B9E A2F0 3FF3 10A0 EE1F`
+- **Signed Message:** http://official-biswadeb941.in/official-biswadeb941_v2.txt.asc 
+- **Public Key:** https://keys.openpgp.org/vks/v1/by-fingerprint/2D3118985F468437F8E60B9EA2F03FF310A0EE1F  
 
 **Follow the steps below to verify the signature:**
 
 ### Step 1. Download the signed message
 
 ```bash
-curl -L -o official_biswadeb941.v1.asc \
-https://raw.githubusercontent.com/official-biswadeb941/official-biswadeb941/main/Folder/official_biswadeb941.v1.asc
+curl -L -o official-biswadeb941_v2.txt.asc \
+http://official-biswadeb941.in/official-biswadeb941_v2.txt.asc
 ```
 
 ### Step 2. Download the public key
 
 ```bash
-curl -L -o official_biswadeb941_public_key.asc \
+curl -L -o official-biswadeb941_public-key.asc \
 "https://keys.openpgp.org/vks/v1/by-fingerprint/2D3118985F468437F8E60B9EA2F03FF310A0EE1F"
 ```
 
 ### Step 3. Import the public key
 
 ```bash
-gpg --import official_biswadeb941_public_key.asc
+gpg --import official-biswadeb941_public-key.asc
 ```
 
-### Step 4. Verify the signature
+### Step 4. Verify the fingerprint:
 
 ```bash
-gpg --verify official_biswadeb941.v1.asc
+gpg --fingerprint 2D3118985F468437F8E60B9EA2F03FF310A0EE1F
+```
+
+### Step 5. Verify the signature: 
+```bash
+gpg --verify official-biswadeb941_v2.txt.asc
 ```
 
 A valid signature will display a “Good signature” message along with the matching fingerprint.
@@ -305,19 +307,40 @@ A valid signature will display a “Good signature” message along with the mat
 
 Open to alliances involving:
 
-- Adversary simulation  
-- Red team strategy  
-- Security automation  
-- Tooling with offensive depth  
-- Research requiring structural or shadow-layer analysis  
+- Offensive Security 
+- Red Team Operations
+- Malware Engineering
+- Secure Hosting  
+- Software Engineering
+- Full stack development 
+- Code Review & Audit
+- Consultancy
+---
+
+# ⚖️ Legal, Ethics & Identity Scope
+
+All work, research, tooling, writings, and publications associated with this identity are governed by clearly defined legal and ethical boundaries.
+
+This applies consistently across all platforms where this identity is represented, including but not limited to:
+
+- GitHub repositories and organizations  
+- Official website and subdomains  
+- Technical blogs and research write-ups  
+- Documentation, whitepapers, and published tools  
+- Talks, demonstrations, and shared proofs of concept  
+
+For updated **Legal Policy & Terms of Use** Visit my website: https://official-biswadeb941.in/legal-policy
+
+Any interaction, reuse, collaboration, or reference to material associated with this identity implies acknowledgment of these terms and applicable law.
 
 ---
 
+
 # 📡 Contact
 
-- **Email:** biswadebmukherjee941@gmail.com  
+- **Email:** admin@official-biswadeb941.in  
 - **LinkedIn:** https://linkedin.com/in/biswadeb-mukherjee  
-- **Portfolio:** https://official-biswadeb941.github.io/Biswadeb-Portfolio/  
+- **Website:** https://official-biswadeb941.in  
 
 ---
 
