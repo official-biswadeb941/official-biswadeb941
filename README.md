@@ -141,19 +141,14 @@ For full legal policy and usage terms:
 * **Website:** [https://official-biswadeb941.in](https://official-biswadeb941.in)
 
 ---
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=official-biswadeb941&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=official-biswadeb941&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=official-biswadeb941&theme=shadow_green&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-biswadeb941&theme=shadow_green" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-biswadeb941&layout=compact&theme=shadow_green" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=official-biswadeb941&theme=shadow_green" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=official-biswadeb941&theme=github_dark" width="48%"/>
 </p>
 
