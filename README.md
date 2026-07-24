@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Identity-Verified-black?style=flat&logo=trustpilot&logoColor=red" height="20"/>
   <br>
   <sub>
-    Offensive Security Researcher • Malware Engineer
+    Security Engineer • Investigator • Independent Researcher
   </sub>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=official-biswadeb941&label=Profile%20Views&color=red&style=flat"/>
@@ -16,34 +16,39 @@
   </a>
 </h1>
 
+---
+
 # 👨‍💻 About
 
-Offensive Security Researcher and Malware Engineer with 5+ years of hands-on experience in adversary simulation, offensive tooling R&D, OSINT operations, and structured threat intelligence research conducted in controlled lab environments.
+Security Engineer and Independent Researcher specialising in OSINT, domain intelligence, DNS infrastructure, network security, and adversary behaviour analysis.
 
-My work focuses on:
+I build tools to make adversarial infrastructure visible and traceable. My approach to threat modelling combines technical analysis with criminal psychology and behavioural pattern research — understanding how attackers think, not just what tools they use.
 
-- Structured attack-chain modeling aligned with real-world adversarial methodology  
-- Malware behavior analysis and custom tooling experimentation  
-- Privilege escalation and post-exploitation research  
-- Infrastructure mapping and OSINT-driven intelligence gathering  
-- Offensive automation and secure systems engineering  
+Key projects:
+- **DIBs** — domain intelligence framework that analysed 330,000+ candidate domains using DNS resolution, Jaro-Winkler similarity scoring, and entropy analysis to map lookalike infrastructure behaviour at scale
+- **HopZero DNS** — recursive DNS resolver with DNS-over-TLS, Redis caching, and modular Golang architecture, built entirely as a self-initiated research tool
+- **TIBs** — threat intelligence layer extending DIBs with adversarial infrastructure correlation (in development)
 
-All experimentation and capability development is performed in isolated research environments for structured analysis and defensive validation.
+All research is conducted in isolated lab environments under defined legal and ethical boundaries.
 
-I approach systems from a structural perspective: understanding how weaknesses combine into realistic compromise paths under adversarial pressure.
+---
+
+# 🏆 Awards & Recognition
+
+- 🥉 **3rd Place** — 1st International Conference on Smart Technology for Emerging Problems (STEP 2025)
+- 🏅 **Top 5 Finalist** — IEEE–IC Standard Hackathon & APSIMSS (IIT Guwahati, 2024)
 
 ---
 
 # 🔬 Technical Focus Areas
 
-- **Adversary Simulation:** Structured modeling of attack paths including initial access vectors, lateral movement analysis, persistence mechanisms, and objective-driven execution within controlled lab environments.
+- **OSINT & Domain Intelligence:** Infrastructure mapping, lookalike domain detection, attack surface discovery, and adversarial infrastructure correlation at scale.
 
-- **Malware Engineering & Tooling R&D:** Custom payload experimentation, loader design, crypter research, runtime behavior modeling, and evasion technique analysis.
+- **DNS Infrastructure Research:** Recursive resolution mechanics, DNS-over-TLS implementation, domain behaviour analysis, and security-focused resolver engineering.
 
-- **Post-Exploitation Research:** Privilege escalation pathways, credential access techniques, trust-boundary analysis, and persistence modeling under isolated testing conditions.
+- **Adversary Behaviour Analysis:** TTP modelling aligned with MITRE ATT&CK, informed by criminal psychology and behavioural pattern research to understand decision-making behind attack chains.
 
-- **Reconnaissance & OSINT:**
-Infrastructure mapping, attack surface discovery, behavioral pattern research, and open-source intelligence analysis.
+- **Network Security Engineering:** Segmented lab infrastructure, traffic analysis, malware sandbox design, and secure network architecture.
 
 - **Secure Engineering:** Golang tooling, Python automation, Linux internals, API orchestration, and secure pipeline development.
 
@@ -75,19 +80,14 @@ Infrastructure mapping, attack surface discovery, behavioral pattern research, a
 # 📂 Selected Projects
 
 | Project | Description | Stack | Status | Year |
-|----------|------------|--------|--------|------|
+|---------|-------------|-------|--------|------|
+| **DIBs** | Domain intelligence framework — analyzed 330,000+ candidate domains to map lookalike infrastructure behavior at scale | Python | Active | 2025–2026 |
+| **TIBs** | Threat intelligence layer extending DIBs with adversarial infrastructure correlation | Python | In Development | 2026 |
+| **HopZero-DNS** | Recursive DNS resolver with DNS-over-TLS, Redis caching, and modular architecture | Golang | Active | 2025 |
 | **IDify** | Decentralized identity & credential protocol | React, Aptos SDK, Solidity | Archived | 2025 |
-| **HopZero-DNS** | High-performance DNS resolution engine | Golang | Active | 2025 |
 | **Incognito-Vault** | Web security demo & cryptographic analysis | Python Flask | Archived | 2024–2025 |
-| **ClopiMedi** | Secure ML health analysis (synthetic data) | Python, ML | Archived | 2024 |
+| **ClopiMedi** | Secure ML health analysis using synthetic data | Python, ML | Archived | 2024 |
 | **Mayabati** | Bi-LSTM recipe recommendation engine | Python, Bi-LSTM | Paused | 2025 |
-
----
-
-# 🏆 Awards & Recognition
-
-- **3rd Place** – 1st International Conference on Smart Technology for Emerging Problems (STEP 2025)  
-- **Top 5 Finalist** – IEEE–IC Standard Hackathon & APSIMSS (IIT Guwahati, 2024)
 
 ---
 
@@ -108,20 +108,20 @@ curl -L -o public-key.asc "https://keys.openpgp.org/vks/v1/by-fingerprint/2D3118
 gpg --import public-key.asc
 gpg --fingerprint 2D3118985F468437F8E60B9EA2F03FF310A0EE1F
 gpg --verify official.asc
-````
+```
 
 ---
 
 # 🤝 Collaboration
 
-Open to collaboration involving:
+Interested in working together? Visit the link below to understand the scope of work I take on and how to get started:
 
-* Adversary Simulation
-* Offensive Security Research
-* Malware Engineering R&D
-* OSINT & Threat Intelligence
-* Secure Architecture Review
-* Secure Software Engineering
+👉 [Work With Me](https://official-biswadeb941.in/work-with-me)
+
+Before reaching out, please read through the following:
+
+- 📋 [Engagement Policy](https://official-biswadeb941.in/engagement-policy) — how I structure and approach collaborative work
+- 🔎 [Client Verification Policy](https://official-biswadeb941.in/client-verification-policy) — what I require before taking on any engagement
 
 ---
 
@@ -141,6 +141,7 @@ For full legal policy and usage terms:
 * **Website:** [https://official-biswadeb941.in](https://official-biswadeb941.in)
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -151,4 +152,3 @@ For full legal policy and usage terms:
   <img src="https://streak-stats.demolab.com?user=official-biswadeb941&theme=shadow_green" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=official-biswadeb941&theme=github_dark" width="48%"/>
 </p>
-
