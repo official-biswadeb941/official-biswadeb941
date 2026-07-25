@@ -47,7 +47,7 @@ All research is conducted in isolated lab environments under defined legal and e
 
 # 🎯 Notable Contributions
 
-- 🏛️ **CERT-In Acknowledged Reporting** — Independently identified and escalated active phishing infrastructure to the Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India. Received official acknowledgment confirming the matter was taken up with the concerned organisation. *(Ref: CERTIn-02229726 & CERTIn-82442226)*
+- 🏛️ **CERT-In Acknowledged Reporting** — Independently identified and escalated active phishing infrastructure to the Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India. Received official acknowledgement confirming the matter was taken up with the concerned organisation.
 
 ---
 
