@@ -20,16 +20,21 @@
 
 # 👨‍💻 About
 
-Security Engineer and Independent Researcher specialising in OSINT, domain intelligence, DNS infrastructure, network security, and adversary behaviour analysis.
+Security Engineer and Independent Researcher specialising in OSINT, domain intelligence, DNS infrastructure, network security, web application security, and adversary behaviour analysis.
 
 I build tools to make adversarial infrastructure visible and traceable. My approach to threat modelling combines technical analysis with criminal psychology and behavioural pattern research — understanding how attackers think, not just what tools they use.
 
 Key projects:
 - **DIBs** — domain intelligence framework that analysed 330,000+ candidate domains using DNS resolution, Jaro-Winkler similarity scoring, and entropy analysis to map lookalike infrastructure behaviour at scale
 - **HopZero DNS** — recursive DNS resolver with DNS-over-TLS, Redis caching, and modular Golang architecture, built entirely as a self-initiated research tool
-- **TIBs** — threat intelligence layer extending DIBs with adversarial infrastructure correlation (in development)
+- **s3-Uploader** — production-grade CLI for uploading files to S3-compatible and GCS storage across 7 providers, with multipart uploads, retry logic, and profile-driven configuration
+
+Operates self-hosted mTLS-protected DoH infrastructure (pihole → unbound → nginx) as personal operational infrastructure for research work — HopZero DNS staged for production deployment following controlled testing.
 
 All research is conducted in isolated lab environments under defined legal and ethical boundaries.
+
+📝 Latest research and articles → [blogs.official-biswadeb941.in](https://blogs.official-biswadeb941.in)
+🌐 Latest projects and updates → [official-biswadeb941.in](https://official-biswadeb941.in)
 
 ---
 
@@ -37,6 +42,12 @@ All research is conducted in isolated lab environments under defined legal and e
 
 - 🥉 **3rd Place** — 1st International Conference on Smart Technology for Emerging Problems (STEP 2025)
 - 🏅 **Top 5 Finalist** — IEEE–IC Standard Hackathon & APSIMSS (IIT Guwahati, 2024)
+
+---
+
+# 🎯 Notable Contributions
+
+- 🏛️ **CERT-In Acknowledged Reporting** — Independently identified and escalated active phishing infrastructure to the Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology, Government of India. Received official acknowledgment confirming the matter was taken up with the concerned organisation. *(Ref: CERTIn-02229726 & CERTIn-82442226)*
 
 ---
 
@@ -57,11 +68,17 @@ All research is conducted in isolated lab environments under defined legal and e
 # 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge&logo=burpsuite&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=red"/>
   <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Ghidra-black?style=for-the-badge&logo=ghidra&logoColor=red"/>
+  <img src="https://img.shields.io/badge/tcpdump-black?style=for-the-badge&logo=linux&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Amass-black?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Censys-black?style=for-the-badge&logo=searchengineland&logoColor=red"/>
+  <img src="https://img.shields.io/badge/YARA-black?style=for-the-badge&logo=virustotal&logoColor=red"/>
 </p>
+
+> When the right tool doesn't exist, I build it.
 
 ---
 
@@ -81,10 +98,10 @@ All research is conducted in isolated lab environments under defined legal and e
 
 | Project | Description | Stack | Status | Year |
 |---------|-------------|-------|--------|------|
-| **DIBs** | Domain intelligence framework — analyzed 330,000+ candidate domains to map lookalike infrastructure behavior at scale | Python | Active | 2025–2026 |
-| **TIBs** | Threat intelligence layer extending DIBs with adversarial infrastructure correlation | Python | In Development | 2026 |
+| **DIBs** | Domain intelligence framework — analysed 330,000+ candidate domains to map lookalike infrastructure behaviour at scale | Python | Active | 2025–2026 |
 | **HopZero-DNS** | Recursive DNS resolver with DNS-over-TLS, Redis caching, and modular architecture | Golang | Active | 2025 |
-| **IDify** | Decentralized identity & credential protocol | React, Aptos SDK, Solidity | Archived | 2025 |
+| **s3-Uploader** | Production-grade CLI for uploading to S3-compatible and GCS storage — 7 providers, multipart uploads, retry logic, dry-run mode | Golang | Active | 2025–2026 |
+| **IDify** | Decentralised identity & credential protocol | React, Aptos SDK, Solidity | Archived | 2025 |
 | **Incognito-Vault** | Web security demo & cryptographic analysis | Python Flask | Archived | 2024–2025 |
 | **ClopiMedi** | Secure ML health analysis using synthetic data | Python, ML | Archived | 2024 |
 | **Mayabati** | Bi-LSTM recipe recommendation engine | Python, Bi-LSTM | Paused | 2025 |
@@ -129,8 +146,11 @@ Before reaching out, please read through the following:
 
 All research, tooling, documentation, and publications are governed by clearly defined legal and ethical boundaries.
 
-For full legal policy and usage terms:
-[https://official-biswadeb941.in/legal-policy](https://official-biswadeb941.in/legal-policy)
+- 📜 [Legal Policy](https://official-biswadeb941.in/legal-policy)
+- 🔏 [Privacy Policy](https://official-biswadeb941.in/privacy-policy)
+- 📋 [Terms of Use](https://official-biswadeb941.in/terms-of-use)
+- 📄 [Content License](https://official-biswadeb941.in/content-license)
+- 🛡️ [Security Research Policy](https://official-biswadeb941.in/security-research-policy)
 
 ---
 
@@ -139,6 +159,7 @@ For full legal policy and usage terms:
 * **Email:** [admin@official-biswadeb941.in](mailto:admin@official-biswadeb941.in)
 * **LinkedIn:** [https://linkedin.com/in/biswadeb-mukherjee](https://linkedin.com/in/biswadeb-mukherjee)
 * **Website:** [https://official-biswadeb941.in](https://official-biswadeb941.in)
+* **Blog:** [https://blogs.official-biswadeb941.in](https://blogs.official-biswadeb941.in)
 
 ---
 
